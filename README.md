@@ -1,0 +1,2 @@
+# .vim
+Vi IMproved configuration
