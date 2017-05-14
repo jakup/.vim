@@ -70,3 +70,18 @@ This is an [EditorConfig][http://editorconfig.org] plugin for Vim.
 https://github.com/leafgarland/typescript-vim/
 
 Syntax file and other settings for [TypeScript][http://typescriptlang.org].
+
+### YouCompleteMe
+
+https://github.com/valloric/youcompleteme/
+
+A code-completion engine for Vim.
+
+**Follow the YouCompleteMe installation instructions**
+
+The MacOS install instructions recommend running the *latest* version of MacVim.  I had success running the latest version of vim in [Homebrew][https://brew.sh] (8.0.0596).
+
+```
+cd ~/.vim/bundle/YouCompleteMe
+./install.py --clang-completer --tern-completer
+```
