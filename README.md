@@ -46,3 +46,15 @@ https://github.com/tpope/vim-fugitive/
 ## More Awesome plugins
 
 Check out http://vimawesome.com/ for a list of awesome VIM plugins!
+
+### vim-colors-solarized
+
+https://github.com/altercation/vim-colors-solarized/
+
+**Solarized Colorscheme for Vim**
+
+Developed by Ethan Schoonover <es@ethanschoonover.com>
+
+**Visit the Solarized homepage**
+
+See the [Solarized homepage][http://ethanschoonover.com/solarized/] for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
