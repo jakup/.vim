@@ -13,7 +13,7 @@ colorscheme solarized
 "
 
 let g:airline_powerline_fonts = 1
-let g:airline_theme='light'
+let g:airline_theme='term'
 
 " guifont
 "
