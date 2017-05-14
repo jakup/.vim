@@ -58,3 +58,9 @@ Developed by Ethan Schoonover <es@ethanschoonover.com>
 **Visit the Solarized homepage**
 
 See the [Solarized homepage][http://ethanschoonover.com/solarized/] for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
+
+### editorconfig-vim
+
+https://github.com/editorconfig/editorconfig-vim/
+
+This is an [EditorConfig][http://editorconfig.org] plugin for Vim.
