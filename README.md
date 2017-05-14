@@ -57,19 +57,19 @@ Developed by Ethan Schoonover <es@ethanschoonover.com>
 
 **Visit the Solarized homepage**
 
-See the [Solarized homepage][http://ethanschoonover.com/solarized/] for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
+See the [Solarized homepage](http://ethanschoonover.com/solarized/) for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
 
 ### editorconfig-vim
 
 https://github.com/editorconfig/editorconfig-vim/
 
-This is an [EditorConfig][http://editorconfig.org] plugin for Vim.
+This is an [EditorConfig](http://editorconfig.org) plugin for Vim.
 
 ### typescript-vim
 
 https://github.com/leafgarland/typescript-vim/
 
-Syntax file and other settings for [TypeScript][http://typescriptlang.org].
+Syntax file and other settings for [TypeScript](http://typescriptlang.org).
 
 ### YouCompleteMe
 
@@ -79,7 +79,7 @@ A code-completion engine for Vim.
 
 **Follow the YouCompleteMe installation instructions**
 
-The MacOS install instructions recommend running the *latest* version of MacVim.  I had success running the latest version of vim in [Homebrew][https://brew.sh] (8.0.0596).
+The MacOS install instructions recommend running the *latest* version of MacVim.  I had success running the latest version of vim in [Homebrew](https://brew.sh).
 
 ```
 cd ~/.vim/bundle/YouCompleteMe
