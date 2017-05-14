@@ -20,9 +20,6 @@ let g:airline_theme='term'
 if has("gui_running")
    let s:uname = system("uname")
    if s:uname == "Darwin\n"
-      set guifont=Source\ Code\ Pro\ for\ Powerline:h16
-      "set guifont=Liberation\ Mono\ for\ Powerline
-      "set guifont=Inconsolata\ for\ Powerline
-      "set guifont=Menlo
+      set guifont=Inconsolata\ for\ Powerline:h16
    endif
 endif
