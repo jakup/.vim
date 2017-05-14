@@ -19,13 +19,13 @@ git submodule update --init --recursive
 
 ## Tim Pope
 
-https://github.com/tpope/
+https://github.com/tpope
 
 Many thanks to Tim Pope for making VIM even more awesomer.  Tim, you're awesome.
 
 ### pathogen.vim
 
-https://github.com/tpope/vim-pathogen/
+https://github.com/tpope/vim-pathogen
 
 "pathogen.vim makes it super easy to install plugins and runtime files in their own private directories."
 
@@ -33,23 +33,23 @@ I added tpope's vim-pathogen project as a git submodule in bundle/ just like any
 
 ### sensible.vim
 
-https://github.com/tpope/vim-sensible/
+https://github.com/tpope/vim-sensible
 
 "Think of sensible.vim as one step above 'nocompatible' mode: a universal set of defaults that (hopefully) everyone can agree on."
 
 ### fugitive.vim
 
-https://github.com/tpope/vim-fugitive/
+https://github.com/tpope/vim-fugitive
 
 "I'm not going to lie to you; fugitive.vim may very well be the best Git wrapper of all time."
 
 ## More Awesome plugins
 
-Check out http://vimawesome.com/ for a list of awesome VIM plugins!
+Check out http://vimawesome.com for a list of awesome VIM plugins!
 
 ### vim-colors-solarized
 
-https://github.com/altercation/vim-colors-solarized/
+https://github.com/altercation/vim-colors-solarized
 
 **Solarized Colorscheme for Vim**
 
@@ -57,25 +57,25 @@ Developed by Ethan Schoonover <es@ethanschoonover.com>
 
 **Visit the Solarized homepage**
 
-See the [Solarized homepage](http://ethanschoonover.com/solarized/) for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
+See the [Solarized homepage](http://ethanschoonover.com/solarized) for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
 
 ### editorconfig-vim
 
-https://github.com/editorconfig/editorconfig-vim/
+https://github.com/editorconfig/editorconfig-vim
 
-This is an [EditorConfig](http://editorconfig.org) plugin for Vim.
+"This is an [EditorConfig](http://editorconfig.org) plugin for Vim."
 
 ### typescript-vim
 
-https://github.com/leafgarland/typescript-vim/
+https://github.com/leafgarland/typescript-vim
 
-Syntax file and other settings for [TypeScript](http://typescriptlang.org).
+"Syntax file and other settings for [TypeScript](http://typescriptlang.org)."
 
 ### YouCompleteMe
 
-https://github.com/valloric/youcompleteme/
+https://github.com/valloric/youcompleteme
 
-A code-completion engine for Vim.
+"A code-completion engine for Vim."
 
 **Follow the YouCompleteMe installation instructions**
 
@@ -92,10 +92,29 @@ cd ~/.vim/bundle/YouCompleteMe
 * https://github.com/vim-airline/vim-airline-themes
 * https://github.com/powerline/fonts
 
-Lean & mean status/tabline for vim that's light as air.  Don't forget to install the powerline fonts.
+"Lean & mean status/tabline for vim that's light as air."
+
+Don't forget to install the powerline fonts.
 
 ```
 git clone https://github.com/powerline/fonts powerline-fonts
 cd powerline-fonts
 ./install.sh
 ```
+
+### promptline.vim
+
+https://github.com/edkolev/promptline.vim
+
+"Simple shell prompt generator with support for powerline symbols and airline integration"
+
+**Quick Start with airline installed:**
+
+1. In vim `:PromptlineSnapshot ~/.shell_prompt.sh airline`
+2. In bash `echo "source ~/.shell_prompt.sh" >> ~/.bash_profile`
+
+### tmuxline.vim
+
+https://github.com/edkolev/tmuxline.vim
+
+"Simple tmux statusline generator with support for powerline symbols and vim/airline/lightline statusline integration"
