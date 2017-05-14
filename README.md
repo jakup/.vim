@@ -85,3 +85,17 @@ The MacOS install instructions recommend running the *latest* version of MacVim.
 cd ~/.vim/bundle/YouCompleteMe
 ./install.py --clang-completer --tern-completer
 ```
+
+### vim-airline, vim-airline-themes, and powerline-fonts
+
+* https://github.com/vim-airline/vim-airline
+* https://github.com/vim-airline/vim-airline-themes
+* https://github.com/powerline/fonts
+
+Lean & mean status/tabline for vim that's light as air.  Don't forget to install the powerline fonts.
+
+```
+git clone https://github.com/powerline/fonts powerline-fonts
+cd powerline-fonts
+./install.sh
+```
