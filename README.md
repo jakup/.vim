@@ -65,12 +65,6 @@ https://github.com/editorconfig/editorconfig-vim
 
 "This is an [EditorConfig](http://editorconfig.org) plugin for Vim."
 
-### typescript-vim
-
-https://github.com/leafgarland/typescript-vim
-
-"Syntax file and other settings for [TypeScript](http://typescriptlang.org)."
-
 ### YouCompleteMe
 
 https://github.com/valloric/youcompleteme
