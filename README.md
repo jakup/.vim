@@ -112,3 +112,9 @@ https://github.com/edkolev/promptline.vim
 https://github.com/edkolev/tmuxline.vim
 
 "Simple tmux statusline generator with support for powerline symbols and vim/airline/lightline statusline integration"
+
+### vim-polyglot
+
+https://github.com/sheerun/vim-polyglot
+
+A collection of language packs for Vim.
